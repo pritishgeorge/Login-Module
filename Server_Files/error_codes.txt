@@ -1,0 +1,2 @@
+1 = server_error
+2 = unknown_error
